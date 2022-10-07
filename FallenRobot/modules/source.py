@@ -9,7 +9,7 @@ from telethon import __version__ as s
 from FallenRobot import OWNER_USERNAME, dispatcher
 from FallenRobot import pbot as client
 
-ANON = "https://telegra.ph/file/7bd111132fce009e4605e.jpg"
+ANON = "https://telegra.ph/file/105cdb0759771b495d7d1.jpg"
 
 
 @client.on_message(filters.command(["repo", "source"]))
@@ -34,7 +34,7 @@ async def repo(client, message):
                     ),
                     InlineKeyboardButton(
                         "• sᴏᴜʀᴄᴇ •",
-                        url="https://github.com/AnonymousR1025/FallenRobot",
+                        url="https://xnxx.com",
                     ),
                 ]
             ]
